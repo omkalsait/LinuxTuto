@@ -1,0 +1,10 @@
+basic linux command
+echo - print the arg
+read - read input from user
+cd - move between directory
+mkdir - create empty dir
+mkdir -p - create parent dir too
+cp - copy files
+rm - remove files
+rmdir - remove dir
+rm -r remove dir with files in it
